@@ -1,6 +1,6 @@
 {
-    "name": "aslab_travel",
-    "short_name": "aslab_travel",
+    "name": "project_travel",
+    "short_name": "project_travel",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
